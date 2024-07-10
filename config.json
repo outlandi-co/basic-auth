@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "your_password", 
+    "database": "basic-auth",   
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "AJJ714OC",
+    "password": "password",
+    "database": "Base_Auth",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "AJJ714OC",
+    "password": "password",
+    "database": "Base_Auth",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
